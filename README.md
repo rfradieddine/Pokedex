@@ -2,4 +2,4 @@
 
 Podendo visualizar o projeto em: https://rfradieddine.github.io/Pokedex/
 
-by: Rafael Radieddine
+by: Rafael Radieddinee
